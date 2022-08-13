@@ -1,0 +1,4 @@
+/target
+/servers/*
+/servers
+/cc-lua/ws-startup.txt
